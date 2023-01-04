@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nivedita kumarii.</h1>
+<h1 align="center">Hi 👋, I'm Nivedita kumariioooo.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsnivedita06&label=Profile%20views&color=0e75b6&style=flat" alt="itsnivedita06" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsnivedita06" alt="itsnivedita06" /></a> </p>
